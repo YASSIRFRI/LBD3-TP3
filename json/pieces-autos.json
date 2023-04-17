@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "nom": "Ampoule LED",
+        "prix": 60,
+        "categorie": "Optiques",
+        "description":"Change Piece of a",
+        "disponibilite":"Oui",
+        "image":"ampoule-led.png"
+    },
+    {
+        "id": 2,
+        "nom": "Plaquettes de frein (x4)",
+        "prix": 40,
+        "categorie": "Freinage",
+        "description":"Change Piece of a",
+        "disponibilite":"Oui",
+        "image":"plaquettes-frein.png"
+
+    },
+    {
+        "id": 3,
+        "nom": "Ampoule boîte à gants",
+        "prix": 5.49,
+        "categorie": "Optiques",
+        "description":"Change Piece of a",
+        "disponibilite":"Oui",
+        "image":"ampoule-boite-a-gants.png"
+    },
+    {
+        "id": 4,
+        "nom": "Liquide de frein",
+        "prix": 9.60,
+        "categorie": "Freinage",
+        "description":"Non",
+        "disponibilite":"Oui",
+        "image":"liquide-frein.png"
+    },
+    {
+        "id": 5,
+        "nom": "Balai d'essuie-glace",
+        "prix": 29.10,
+        "description":"Change Piece of a",
+        "disponibilite":"Oui",
+        "image":"balai-essuie-glace.png"
+
+    }
+]
